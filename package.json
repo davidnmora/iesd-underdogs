@@ -1,0 +1,25 @@
+{
+  "name": "iesd-underdogs",
+  "version": "1.0.0",
+  "description": "Slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidnmora/iesd-underdogs.git"
+  },
+  "keywords": [
+    "hackday"
+  ],
+  "author": "underdogs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidnmora/iesd-underdogs/issues"
+  },
+  "homepage": "https://github.com/davidnmora/iesd-underdogs#readme",
+  "dependencies": {
+    "@slack/web-api": "^5.7.0"
+  }
+}
