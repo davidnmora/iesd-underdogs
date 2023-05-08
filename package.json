@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/davidnmora/iesd-underdogs#readme",
   "dependencies": {
-    "@slack/web-api": "^5.7.0"
+    "@slack/web-api": "^5.15.0"
   }
 }
